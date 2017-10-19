@@ -1,0 +1,14 @@
+{
+  "name": "bitdht",
+  "version": "1.0.0",
+  "main": "crawl.js",
+  "license": "Unlicense",
+  "scripts": {
+	"start": "node crawl.js" 
+  },
+  "dependencies": {
+    "bittorrent-dht": "^7.6.0",
+    "geoip-lite-country": "^1.1.5",
+    "lodash": "^4.17.4"
+  }
+}
